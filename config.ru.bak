@@ -1,0 +1,52 @@
+require 'config/environment'
+require 'rack/openid'
+
+use Rack::Session::Cookie
+use Rack::OpenID
+
+map '/use' do
+run lambda {|env|
+  puts env['PATH_INFO']
+  if env['PATH_INFO']=='/use'
+    request = Rack::Request.new(env)
+    session = env['rack.session']
+
+    if env['PATH_INFO'] == '/logout'
+      p 'logout'
+      session.clear
+      [ 302, { 'Location' => '/' }, [] ]
+
+    elsif openid_response = env['rack.openid.response']
+      session[:openid] = openid_response
+      [ 200, { 'Content-Type' => 'text/html' }, [] ]
+
+    elsif openid_url = request.params['openid_url']
+      p openid_url
+      
+      [ 401, { 'WWW-Authenticate' => "OpenID identifier=\"#{ openid_url }\""}, [] ]
+
+    else
+      if session[:openid]
+        ss = session[:openid]
+          p ss.status
+          p ss.identity_url
+
+        case session[:openid].status
+          when :failure
+            login_status = "Login Failed: #{ session[:openid].message }"
+          when :success
+            login_status = "Logged in as: #{ session[:openid].identity_url }"
+          when :missing
+            login_status = "missing"
+          else
+            login_status = "unknown error: #{session[:openid].status}"
+        end
+      end
+
+      [200, {'Content-Type' => 'text/html'},[]]
+    end
+  else
+    [200,{'Content-Type' => 'text/html'},[]]
+  end
+}
+end

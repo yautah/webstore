@@ -1,0 +1,23 @@
+require 'config/environment'
+
+=begin
+require 'rack/openid'
+map '/use' do
+  app = lambda{|env|
+    session = env['rack.session']
+
+    if openid_response = env['rack.openid.response']
+      session[:openid] = openid_response
+      [ 200, { 'Content-Type' => 'text/html' }, ['login success!!'] ]
+#[ 302, { 'Location' => '/' }, ['login success!!'] ]
+    else
+    [ 401, { 'WWW-Authenticate' => "OpenID identifier=\"http://www.google.com/accounts/o8/id\""}, [] ]
+    end
+  }
+
+  use Rack::Session::Cookie
+  use Rack::OpenID
+  run app
+end
+=end
+

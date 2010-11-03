@@ -1,0 +1,1201 @@
+
+
+Processing SessionsController#index (for 192.168.0.234 at 2010-10-26 16:28:56) [GET]
+Rendering sessions/index
+Completed in 74ms (View: 71, DB: 0) | 200 OK [http://192.168.0.24/]
+
+
+Processing SessionsController#index (for 192.168.0.234 at 2010-10-26 16:28:57) [GET]
+Rendering sessions/index
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.0.24/]
+
+
+Processing SessionsController#index (for 192.168.0.234 at 2010-10-26 16:28:59) [GET]
+Rendering sessions/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.0.24/]
+
+
+Processing SessionsController#index (for 192.168.0.234 at 2010-10-26 16:29:00) [GET]
+Rendering sessions/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.0.24/]
+
+
+Processing SessionsController#index (for 192.168.0.234 at 2010-10-26 16:29:01) [GET]
+Rendering sessions/index
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://192.168.0.24/]
+
+
+Processing SessionsController#index (for 192.168.0.234 at 2010-10-26 16:29:01) [GET]
+Rendering sessions/index
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://192.168.0.24/]
+
+
+Processing SessionsController#index (for 192.168.0.234 at 2010-10-26 16:29:01) [GET]
+Rendering sessions/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.0.24/]
+
+
+Processing SessionsController#index (for 192.168.0.234 at 2010-10-26 16:29:02) [GET]
+Rendering sessions/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.0.24/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-27 16:16:09) [GET]
+Rendering sessions/index
+Completed in 45ms (View: 43, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-27 16:16:15) [GET]
+Rendering sessions/index
+Completed in 114ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-27 16:16:16) [GET]
+Rendering sessions/index
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-27 17:03:46) [GET]
+Rendering sessions/index
+Completed in 17ms (View: 13, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-27 17:05:55) [GET]
+Rendering sessions/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-27 17:05:55) [GET]
+Rendering sessions/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-27 17:08:09) [GET]
+Rendering sessions/index
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-27 17:11:01) [GET]
+Rendering sessions/index
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-27 17:24:05) [GET]
+Rendering sessions/index
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-27 17:28:52) [GET]
+Rendering sessions/index
+Completed in 17ms (View: 13, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-27 17:32:29) [GET]
+Rendering sessions/index
+Completed in 19ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-10-27 17:32:30) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  rack (1.1.0) bin/rackup:4
+  /usr/local/ruby/bin/rackup:19:in `load'
+  /usr/local/ruby/bin/rackup:19
+
+Rendering rescues/layout (not_found)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-27 17:32:39) [GET]
+Rendering sessions/index
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-10-27 17:32:41) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  rack (1.1.0) bin/rackup:4
+  /usr/local/ruby/bin/rackup:19:in `load'
+  /usr/local/ruby/bin/rackup:19
+
+Rendering rescues/layout (not_found)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-27 17:37:13) [GET]
+Rendering sessions/index
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-10-27 17:37:14) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  rack (1.1.0) bin/rackup:4
+  /usr/local/ruby/bin/rackup:19:in `load'
+  /usr/local/ruby/bin/rackup:19
+
+Rendering rescues/layout (not_found)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-27 17:37:44) [GET]
+Rendering sessions/index
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-27 17:37:52) [GET]
+Rendering sessions/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-28 17:45:20) [GET]
+Rendering sessions/index
+Completed in 24ms (View: 23, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-10-28 17:45:21) [GET]
+Rendering sessions/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-11-02 17:44:15) [GET]
+  Parameters: {"open_id?openid_url"=>"yahoo.com"}
+
+ActionController::RoutingError (No route matches "/auth" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-02 17:44:27) [GET]
+Rendering sessions/index
+Completed in 80ms (View: 76, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-02 17:47:14) [GET]
+Rendering sessions/index
+Completed in 52ms (View: 14, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-02 17:48:18) [GET]
+Redirected to http://www.google.com/accounts/o8/id
+Completed in 4ms (DB: 0) | 302 Found [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-02 17:57:48) [GET]
+Redirected to http://www.google.com/accounts/o8/id
+Completed in 4ms (DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-02 17:58:24) [GET]
+Redirected to http://www.google.com/accounts/o8/id
+Completed in 5ms (DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-02 17:59:32) [GET]
+Redirected to http://www.google.com/accounts/o8/id
+Completed in 4ms (DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-02 17:59:38) [GET]
+Redirected to http://www.google.com/accounts/o8/id
+Completed in 4ms (DB: 0) | 302 Found [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-02 17:59:47) [GET]
+Redirected to http://www.google.com/accounts/o8/id
+Completed in 4ms (DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-02 18:00:07) [GET]
+Redirected to http://www.google.com/accounts/o8/id
+Completed in 12ms (DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-02 18:00:46) [GET]
+Redirected to http://www.google.com/accounts/o8/id
+Completed in 4ms (DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-02 18:01:02) [GET]
+Redirected to http://www.google.com/accounts/o8/id
+Completed in 4ms (DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:05:55) [GET]
+Redirected to http://www.google.com/accounts/o8/id
+Completed in 22ms (DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:07:43) [GET]
+Redirected to http://www.google.com/accounts/o8/id
+Completed in 4ms (DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:09:43) [GET]
+Redirected to http://www.google.com/accounts/o8/id
+Completed in 4ms (DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:09:55) [GET]
+Redirected to http://www.google.com/accounts/o8/id
+Completed in 4ms (DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:12:48) [GET]
+Redirected to http://localhost:3001/
+Completed in 5ms (DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:12:49) [GET]
+Redirected to http://localhost:3001/
+Completed in 4ms (DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:13:32) [GET]
+Rendering sessions/index
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:13:53) [GET]
+Rendering sessions/index
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:15:30) [GET]
+Rendering sessions/index
+Completed in 8ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-11-03 10:23:19) [GET]
+
+SyntaxError (/home/yang/workspaces/store/app/controllers/sessions_controller.rb:8: syntax error, unexpected tASSOC, expecting kEND
+...EADER] = 'WWW-Authenticate' => "OpenID identifier=\"http://w...
+                              ^):
+  
+
+Rendered rescues/_trace (73.6ms)
+Rendered rescues/_request_and_response (3.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:23:40) [GET]
+Rendering sessions/index
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:24:41) [GET]
+Rendering sessions/index
+Completed in 7ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:25:20) [GET]
+Rendering sessions/index
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:26:56) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:27:07) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:27:24) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:27:30) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:27:38) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:32:10) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:32:15) [GET]
+Rendering sessions/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:33:35) [GET]
+
+NameError (undefined local variable or method `reuqest' for #<SessionsController:0x9bb68dc>):
+  app/controllers/sessions_controller.rb:4:in `index'
+
+Rendered rescues/_trace (74.5ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:33:51) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:33:57) [GET]
+Rendering sessions/index
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:35:09) [GET]
+Completed in 3ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:35:47) [GET]
+Rendering sessions/index
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:40:11) [GET]
+Rendering sessions/index
+Completed in 19ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:58:03) [GET]
+Rendering sessions/index
+Completed in 12ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:59:22) [GET]
+Rendering sessions/index
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:59:57) [GET]
+Rendering sessions/index
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 10:59:58) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 11:00:06) [GET]
+Rendering sessions/index
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 11:01:29) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 11:01:34) [GET]
+Rendering sessions/index
+Completed in 21ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 11:01:56) [GET]
+Completed in 4ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 11:02:00) [GET]
+Rendering sessions/index
+Completed in 30ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-11-03 12:38:32) [GET]
+
+SyntaxError (/home/yang/workspaces/store/app/controllers/sessions_controller.rb:41: dynamic constant assignment
+resp = @access.get(Url%(AppID,FullUser))
+                              ^
+/home/yang/workspaces/store/app/controllers/sessions_controller.rb:41: dynamic constant assignment
+resp = @access.get(Url%(AppID,FullUser))
+                                       ^
+/home/yang/workspaces/store/app/controllers/sessions_controller.rb:41: syntax error, unexpected ')', expecting '='
+resp = @access.get(Url%(AppID,FullUser))
+                                       ^
+/home/yang/workspaces/store/app/controllers/sessions_controller.rb:45: syntax error, unexpected kWHEN, expecting ')'
+      when :failed
+          ^
+/home/yang/workspaces/store/app/controllers/sessions_controller.rb:47: syntax error, unexpected kWHEN, expecting ')'
+      when :missing
+          ^
+/home/yang/workspaces/store/app/controllers/sessions_controller.rb:49: syntax error, unexpected kEND, expecting ')'
+/home/yang/workspaces/store/app/controllers/sessions_controller.rb:53: syntax error, unexpected kEND, expecting ')'):
+  
+
+Rendered rescues/_trace (74.2ms)
+Rendered rescues/_request_and_response (3.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 12:38:52) [GET]
+Completed in 66ms (View: 63, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 12:39:00) [GET]
+Rendering sessions/index
+Completed in 1929ms (View: 24, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 12:39:31) [GET]
+Rendering sessions/index
+Completed in 2119ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 12:39:34) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 12:39:39) [GET]
+Rendering sessions/index
+Completed in 1868ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 12:45:03) [GET]
+Rendering sessions/index
+Completed in 1689ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 12:45:04) [GET]
+Completed in 6ms (View: 2, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 12:45:10) [GET]
+Rendering sessions/index
+Completed in 1563ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 12:46:21) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 12:46:26) [GET]
+Rendering sessions/index
+Completed in 4718ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 13:41:30) [GET]
+Completed in 4ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 13:41:42) [GET]
+Rendering sessions/index
+Completed in 2667ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 13:58:04) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 13:58:09) [GET]
+
+NameError (uninitialized constant Signet::OAuth1):
+  app/controllers/sessions_controller.rb:36:in `index'
+
+Rendered rescues/_trace (73.1ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 13:58:42) [GET]
+Completed in 4ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 13:58:47) [GET]
+Rendering sessions/index
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 13:59:12) [GET]
+Completed in 12ms (View: 7, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 13:59:17) [GET]
+Rendering sessions/index
+Completed in 10824ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 13:59:40) [GET]
+Completed in 14ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 13:59:45) [GET]
+Rendering sessions/index
+Completed in 81400ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:01:15) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:01:20) [GET]
+Rendering sessions/index
+Completed in 132657ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:03:39) [GET]
+Completed in 20ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:03:44) [GET]
+Rendering sessions/index
+Completed in 3834ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:04:21) [GET]
+Completed in 34ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:04:26) [GET]
+
+ArgumentError (token_credential_key was not set.):
+  signet (0.1.4) lib/signet/oauth_1/client.rb:880:in `generate_authenticated_request'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:878:in `each'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:878:in `generate_authenticated_request'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:1020:in `fetch_protected_resource'
+  app/controllers/sessions_controller.rb:45:in `index'
+
+Rendered rescues/_trace (261.8ms)
+Rendered rescues/_request_and_response (3.6ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-11-03 14:20:34) [GET]
+
+SyntaxError (/home/yang/workspaces/store/app/controllers/sessions_controller.rb:41: syntax error, unexpected ')'):
+  
+
+Rendered rescues/_trace (93.7ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:20:42) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:20:47) [GET]
+
+ArgumentError (token_credential_key was not set.):
+  signet (0.1.4) lib/signet/oauth_1/client.rb:880:in `generate_authenticated_request'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:878:in `each'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:878:in `generate_authenticated_request'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:1020:in `fetch_protected_resource'
+  app/controllers/sessions_controller.rb:49:in `index'
+
+Rendered rescues/_trace (106.8ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:22:01) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:22:06) [GET]
+Rendering sessions/index
+Completed in 5874ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:24:59) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:25:04) [GET]
+
+ArgumentError (temporary_credential_uri was not set.):
+  signet (0.1.4) lib/signet/oauth_1/client.rb:529:in `generate_temporary_credential_request'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:527:in `each'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:527:in `generate_temporary_credential_request'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:610:in `fetch_request_token'
+  app/controllers/sessions_controller.rb:46:in `index'
+
+Rendered rescues/_trace (255.1ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:26:06) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:26:11) [GET]
+
+ArgumentError (temporary_credential_key was not set.):
+  signet (0.1.4) lib/signet/oauth_1/client.rb:701:in `generate_token_credential_request'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:699:in `each'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:699:in `generate_token_credential_request'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:780:in `fetch_access_token'
+  app/controllers/sessions_controller.rb:46:in `index'
+
+Rendered rescues/_trace (110.8ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:26:57) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:27:02) [GET]
+Rendering sessions/index
+Completed in 18ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:28:54) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:29:01) [GET]
+
+NoMethodError (undefined method `content' for #<Array:0xaa9d918>):
+  app/controllers/sessions_controller.rb:51:in `index'
+
+Rendered rescues/_trace (110.4ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:30:08) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:30:13) [GET]
+Rendering sessions/index
+Completed in 1700ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:30:42) [GET]
+Completed in 34ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:30:47) [GET]
+Rendering sessions/index
+Completed in 17ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:33:14) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:33:19) [GET]
+Rendering sessions/index
+Completed in 100065ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:35:06) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:35:12) [GET]
+Rendering sessions/index
+Completed in 25908ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:35:45) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:35:51) [GET]
+Rendering sessions/index
+Completed in 225178ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:39:36) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:39:43) [GET]
+
+ArgumentError (Missing :uri parameter.):
+  signet (0.1.4) lib/signet/oauth_1/client.rb:911:in `generate_authenticated_request'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:909:in `each'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:909:in `generate_authenticated_request'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:1020:in `fetch_protected_resource'
+  app/controllers/sessions_controller.rb:48:in `index'
+
+Rendered rescues/_trace (106.6ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:39:57) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:40:02) [GET]
+Rendering sessions/index
+Completed in 15148ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:40:38) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:40:45) [GET]
+Rendering sessions/index
+Completed in 6023ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:41:05) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:41:11) [GET]
+Rendering sessions/index
+Completed in 20891ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:53:53) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 14:53:59) [GET]
+Rendering sessions/index
+Completed in 7730ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:03:21) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:03:27) [GET]
+Rendering sessions/index
+Completed in 2233ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-11-03 15:11:54) [GET]
+
+SyntaxError (/home/yang/workspaces/store/app/controllers/sessions_controller.rb:42: syntax error, unexpected ')'):
+  
+
+Rendered rescues/_trace (258.0ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:12:07) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:12:11) [GET]
+
+ArgumentError (temporary_credential_uri was not set.):
+  signet (0.1.4) lib/signet/oauth_1/client.rb:529:in `generate_temporary_credential_request'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:527:in `each'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:527:in `generate_temporary_credential_request'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:610:in `fetch_temporary_credential'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:669:in `fetch_temporary_credential!'
+  app/controllers/sessions_controller.rb:46:in `index'
+
+Rendered rescues/_trace (256.1ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:13:15) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:13:20) [GET]
+
+Signet::AuthorizationError (Unexpected status code: 404.  Server message:
+Not Found):
+  signet (0.1.4) lib/signet/oauth_1/client.rb:633:in `fetch_temporary_credential'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:669:in `fetch_temporary_credential!'
+  app/controllers/sessions_controller.rb:47:in `index'
+
+Rendered rescues/_trace (265.2ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:14:11) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:14:15) [GET]
+Rendering sessions/index
+Completed in 7630ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:14:44) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:14:49) [GET]
+Rendering sessions/index
+Completed in 86649ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:16:19) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:16:25) [GET]
+Rendering sessions/index
+Completed in 13861ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:16:49) [GET]
+Completed in 7ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:16:55) [GET]
+Rendering sessions/index
+Completed in 9320ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:19:11) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:19:16) [GET]
+Rendering sessions/index
+Completed in 99380ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:21:02) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:21:07) [GET]
+Rendering sessions/index
+Completed in 47232ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:30:49) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:30:55) [GET]
+Rendering sessions/index
+Completed in 13740ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:36:42) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:36:47) [GET]
+
+NameError (uninitialized constant SessionsController::Consumer):
+  app/controllers/sessions_controller.rb:43:in `index'
+
+Rendered rescues/_trace (104.8ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:37:20) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:37:25) [GET]
+
+NameError (uninitialized constant SessionsController::Consumer):
+  app/controllers/sessions_controller.rb:44:in `index'
+
+Rendered rescues/_trace (100.5ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:50:14) [GET]
+Completed in 32ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:50:20) [GET]
+
+NameError (uninitialized constant SessionsController::Consumer):
+  app/controllers/sessions_controller.rb:43:in `index'
+
+Rendered rescues/_trace (102.1ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:50:47) [GET]
+Completed in 11ms (View: 6, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:50:52) [GET]
+
+NameError (uninitialized constant SessionsController::Consumer):
+  app/controllers/sessions_controller.rb:43:in `index'
+
+Rendered rescues/_trace (108.5ms)
+Rendered rescues/_request_and_response (3.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:51:25) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:51:30) [GET]
+
+NameError (uninitialized constant OAuth::VERSION):
+  oauth (0.4.4) lib/oauth/client/helper.rb:64:in `amend_user_agent_header'
+  oauth (0.4.4) lib/oauth/client/net_http.rb:28:in `oauth!'
+  oauth (0.4.4) lib/oauth/consumer.rb:225:in `sign!'
+  oauth (0.4.4) lib/oauth/consumer.rb:191:in `create_signed_request'
+  oauth (0.4.4) lib/oauth/consumer.rb:162:in `request'
+  oauth (0.4.4) lib/oauth/tokens/consumer_token.rb:25:in `request'
+  oauth (0.4.4) lib/oauth/tokens/access_token.rb:12:in `request'
+  oauth (0.4.4) lib/oauth/tokens/access_token.rb:27:in `get'
+  app/controllers/sessions_controller.rb:47:in `index'
+
+Rendered rescues/_trace (120.4ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:51:59) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:52:04) [GET]
+Rendering sessions/index
+Completed in 1591ms (View: 161, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:52:44) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:52:50) [GET]
+
+NoMethodError (undefined method `body' for #<OAuth::AccessToken:0xb254bac>):
+  app/controllers/sessions_controller.rb:50:in `index'
+
+Rendered rescues/_trace (100.9ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:53:10) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:53:15) [GET]
+Rendering sessions/index
+Completed in 2879ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:55:55) [GET]
+Completed in 8ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:56:00) [GET]
+Rendering sessions/index
+Completed in 1797ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:59:19) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 15:59:23) [GET]
+Rendering sessions/index
+Completed in 1491ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:14:20) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:15:21) [GET]
+Rendering sessions/index
+Completed in 1407ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:16:50) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:16:55) [GET]
+Rendering sessions/index
+Completed in 1302ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:27:28) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:27:34) [GET]
+
+NoMethodError (undefined method `downcase' for nil:NilClass):
+  oauth (0.4.4) lib/oauth/request_proxy/base.rb:93:in `normalized_uri'
+  oauth (0.4.4) lib/oauth/request_proxy/base.rb:113:in `signature_base_string'
+  oauth (0.4.4) lib/oauth/signature/base.rb:77:in `signature_base_string'
+  oauth (0.4.4) lib/oauth/signature/hmac/base.rb:12:in `digest'
+  oauth (0.4.4) lib/oauth/signature/base.rb:65:in `signature'
+  oauth (0.4.4) lib/oauth/signature.rb:23:in `sign'
+  oauth (0.4.4) lib/oauth/client/helper.rb:45:in `signature'
+  oauth (0.4.4) lib/oauth/client/helper.rb:75:in `header'
+  oauth (0.4.4) lib/oauth/client/net_http.rb:90:in `set_oauth_header'
+  oauth (0.4.4) lib/oauth/client/net_http.rb:30:in `send'
+  oauth (0.4.4) lib/oauth/client/net_http.rb:30:in `oauth!'
+  oauth (0.4.4) lib/oauth/consumer.rb:225:in `sign!'
+  oauth (0.4.4) lib/oauth/consumer.rb:191:in `create_signed_request'
+  oauth (0.4.4) lib/oauth/consumer.rb:162:in `request'
+  oauth (0.4.4) lib/oauth/tokens/consumer_token.rb:25:in `request'
+  oauth (0.4.4) lib/oauth/tokens/access_token.rb:12:in `request'
+  oauth (0.4.4) lib/oauth/tokens/access_token.rb:27:in `get'
+  app/controllers/sessions_controller.rb:53:in `index'
+
+Rendered rescues/_trace (291.6ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:28:28) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:28:33) [GET]
+
+Errno::ECONNREFUSED (Connection refused - connect(2)):
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:560:in `initialize'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:560:in `open'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:560:in `connect'
+  /usr/local/ruby/lib/ruby/1.8/timeout.rb:53:in `timeout'
+  /usr/local/ruby/lib/ruby/1.8/timeout.rb:93:in `timeout'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:560:in `connect'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:553:in `do_start'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:548:in `start'
+  httpadapter (0.2.0) lib/httpadapter/adapters/net_http.rb:118:in `transmit'
+  httpadapter (0.2.0) lib/httpadapter.rb:140:in `transmit'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:1021:in `fetch_protected_resource'
+  app/controllers/sessions_controller.rb:70:in `index'
+
+Rendered rescues/_trace (129.7ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:30:35) [GET]
+Completed in 5ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:30:40) [GET]
+
+Errno::ECONNREFUSED (Connection refused - connect(2)):
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:560:in `initialize'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:560:in `open'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:560:in `connect'
+  /usr/local/ruby/lib/ruby/1.8/timeout.rb:53:in `timeout'
+  /usr/local/ruby/lib/ruby/1.8/timeout.rb:93:in `timeout'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:560:in `connect'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:553:in `do_start'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:548:in `start'
+  httpadapter (0.2.0) lib/httpadapter/adapters/net_http.rb:118:in `transmit'
+  httpadapter (0.2.0) lib/httpadapter.rb:140:in `transmit'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:1021:in `fetch_protected_resource'
+  app/controllers/sessions_controller.rb:67:in `index'
+
+Rendered rescues/_trace (114.8ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:32:25) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:32:31) [GET]
+
+Errno::ECONNREFUSED (Connection refused - connect(2)):
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:560:in `initialize'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:560:in `open'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:560:in `connect'
+  /usr/local/ruby/lib/ruby/1.8/timeout.rb:53:in `timeout'
+  /usr/local/ruby/lib/ruby/1.8/timeout.rb:93:in `timeout'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:560:in `connect'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:553:in `do_start'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:548:in `start'
+  httpadapter (0.2.0) lib/httpadapter/adapters/net_http.rb:118:in `transmit'
+  httpadapter (0.2.0) lib/httpadapter.rb:140:in `transmit'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:1021:in `fetch_protected_resource'
+  app/controllers/sessions_controller.rb:67:in `index'
+
+Rendered rescues/_trace (114.4ms)
+Rendered rescues/_request_and_response (0.9ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:37:59) [GET]
+Completed in 11ms (View: 7, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:38:05) [GET]
+
+Errno::ECONNREFUSED (Connection refused - connect(2)):
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:560:in `initialize'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:560:in `open'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:560:in `connect'
+  /usr/local/ruby/lib/ruby/1.8/timeout.rb:53:in `timeout'
+  /usr/local/ruby/lib/ruby/1.8/timeout.rb:93:in `timeout'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:560:in `connect'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:553:in `do_start'
+  /usr/local/ruby/lib/ruby/1.8/net/http.rb:548:in `start'
+  httpadapter (0.2.0) lib/httpadapter/adapters/net_http.rb:118:in `transmit'
+  httpadapter (0.2.0) lib/httpadapter.rb:140:in `transmit'
+  signet (0.1.4) lib/signet/oauth_1/client.rb:1021:in `fetch_protected_resource'
+  app/controllers/sessions_controller.rb:67:in `index'
+
+Rendered rescues/_trace (117.9ms)
+Rendered rescues/_request_and_response (3.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:42:15) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:42:20) [GET]
+
+NoMethodError (undefined method `downcase' for nil:NilClass):
+  oauth (0.4.4) lib/oauth/request_proxy/base.rb:93:in `normalized_uri'
+  oauth (0.4.4) lib/oauth/request_proxy/base.rb:113:in `signature_base_string'
+  oauth (0.4.4) lib/oauth/signature/base.rb:77:in `signature_base_string'
+  oauth (0.4.4) lib/oauth/signature/hmac/base.rb:12:in `digest'
+  oauth (0.4.4) lib/oauth/signature/base.rb:65:in `signature'
+  oauth (0.4.4) lib/oauth/signature.rb:23:in `sign'
+  oauth (0.4.4) lib/oauth/client/helper.rb:45:in `signature'
+  oauth (0.4.4) lib/oauth/client/helper.rb:75:in `header'
+  oauth (0.4.4) lib/oauth/client/net_http.rb:90:in `set_oauth_header'
+  oauth (0.4.4) lib/oauth/client/net_http.rb:30:in `send'
+  oauth (0.4.4) lib/oauth/client/net_http.rb:30:in `oauth!'
+  oauth (0.4.4) lib/oauth/consumer.rb:225:in `sign!'
+  oauth (0.4.4) lib/oauth/consumer.rb:191:in `create_signed_request'
+  oauth (0.4.4) lib/oauth/consumer.rb:162:in `request'
+  oauth (0.4.4) lib/oauth/tokens/consumer_token.rb:25:in `request'
+  oauth (0.4.4) lib/oauth/tokens/access_token.rb:12:in `request'
+  oauth (0.4.4) lib/oauth/tokens/access_token.rb:27:in `get'
+  app/controllers/sessions_controller.rb:56:in `index'
+
+Rendered rescues/_trace (139.0ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:45:07) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:45:16) [GET]
+Rendering sessions/index
+Completed in 1308ms (View: 12, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:45:44) [GET]
+Completed in 6ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:45:51) [GET]
+Rendering sessions/index
+Completed in 1889ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:46:07) [GET]
+Completed in 7ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:46:11) [GET]
+Rendering sessions/index
+Completed in 2056ms (View: 2, DB: 0) | 200 OK [http://localhost/]

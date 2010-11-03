@@ -31,8 +31,6 @@ oauth_token = "1/6H9A-UenyD1WJY_vBxBcosH7X3UAsaqCDtewx_BUb2A"
   AppID = "bfmkfbiemfopgnefghkmakgiaobhekhi"
   Url = "https://www.googleapis.com/chromewebstore/v1/licenses/%s/%s"
 
-  FullUser = "AItOawmWpkMt_qJRVRQfIlJ32TZnW1mmzYbjWeI"
-  FreeUser = "AItOawlh_ZYIBQi-kNV-d3Rd8WIjQEBsLDh5LDQ"
   FullUser1 = "https://www.google.com/accounts/o8/id?id=AItOawmWpkMt_qJRVRQfIlJ32TZnW1mmzYbjWeI"
   FreeUser2 = "https://www.google.com/accounts/o8/id?id=AItOawlh_ZYIBQi-kNV-d3Rd8WIjQEBsLDh5LDQ"
 

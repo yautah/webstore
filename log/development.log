@@ -1199,3 +1199,11 @@ Completed in 7ms (View: 1, DB: 0) | 401 Unauthorized [http://localhost/]
 Processing SessionsController#index (for 127.0.0.1 at 2010-11-03 16:46:11) [GET]
 Rendering sessions/index
 Completed in 2056ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-11-03 17:30:27) [GET]
+
+ActionController::RoutingError (No route matches "/use" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)

@@ -1207,3 +1207,32 @@ ActionController::RoutingError (No route matches "/use" with {:method=>:get}):
   
 
 Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-11-05 00:52:35) [GET]
+
+MissingSourceFile (no such file to load -- signet):
+  app/controllers/sessions_controller.rb:1
+
+Rendered rescues/_trace (48.1ms)
+Rendered rescues/_request_and_response (2.1ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-11-05 00:55:31) [GET]
+
+MissingSourceFile (no such file to load -- oauth):
+  app/controllers/sessions_controller.rb:4
+
+Rendered rescues/_trace (53.0ms)
+Rendered rescues/_request_and_response (1.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-05 00:56:17) [GET]
+Completed in 139ms (View: 136, DB: 0) | 401 Unauthorized [http://localhost/]
+
+
+Processing SessionsController#index (for 127.0.0.1 at 2010-11-05 00:56:49) [GET]
+Rendering sessions/index
+Completed in 1935ms (View: 40, DB: 0) | 200 OK [http://localhost/]

@@ -1,8 +1,9 @@
 require 'signet'
 require 'signet/oauth_1/client'
 #
-require 'oauth'
-require 'oauth/consumer'
+#require 'oauth'
+#require 'oauth/consumer'
+#
 require 'cgi'
 
 class SessionsController < ApplicationController
